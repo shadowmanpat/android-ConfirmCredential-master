@@ -1,0 +1,4 @@
+#Wed Oct 11 14:37:36 EEST 2017
+base.0=/home/sm/Documents/Android Testing/android-ConfirmCredential-master/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/home/sm/Documents/Android Testing/android-ConfirmCredential-master/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

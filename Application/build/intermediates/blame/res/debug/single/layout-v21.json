@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/sm/Documents/Android Testing/android-ConfirmCredential-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/sm/.android/build-cache/a004773b701c8378299fcc963bcfd70c8a695c46/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/sm/Documents/Android Testing/android-ConfirmCredential-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/sm/.android/build-cache/a004773b701c8378299fcc963bcfd70c8a695c46/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/sm/Documents/Android Testing/android-ConfirmCredential-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/sm/.android/build-cache/a004773b701c8378299fcc963bcfd70c8a695c46/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/sm/Documents/Android Testing/android-ConfirmCredential-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/sm/.android/build-cache/a004773b701c8378299fcc963bcfd70c8a695c46/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

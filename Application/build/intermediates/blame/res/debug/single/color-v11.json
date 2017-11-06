@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sm/Documents/Android Testing/android-ConfirmCredential-master/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/sm/.android/build-cache/98aacd0a3990e63c3a6c869cab9df91678c8a03f/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/sm/Documents/Android Testing/android-ConfirmCredential-master/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/sm/.android/build-cache/98aacd0a3990e63c3a6c869cab9df91678c8a03f/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

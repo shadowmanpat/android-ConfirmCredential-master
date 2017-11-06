@@ -1,0 +1,7 @@
+#Wed Oct 11 14:40:46 EEST 2017
+base.0=/home/sm/Documents/Android Testing/android-ConfirmCredential-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c2b1f82e0fdb7b0fccf56b29efe8bfb454aa4322
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/sm/Documents/Android Testing/android-ConfirmCredential-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4901c724e8fdfa0d565313b89c85deaca7761483/classes.dex
+base.1=/home/sm/Documents/Android Testing/android-ConfirmCredential-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4901c724e8fdfa0d565313b89c85deaca7761483
+file.0=/home/sm/Documents/Android Testing/android-ConfirmCredential-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c2b1f82e0fdb7b0fccf56b29efe8bfb454aa4322/classes.dex
